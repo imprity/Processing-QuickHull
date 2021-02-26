@@ -1,7 +1,7 @@
 # Processing-QuickHull
 QuickHull example for processing
 
-<img src = "Capture.PNG" style = "width : 300px; height : 300px"></img>
+![](Capture.PNG | width=100)
 
 This is a dirty little example for quick hull algorithm. For anyone wants to use it, feel free to do so.
 
